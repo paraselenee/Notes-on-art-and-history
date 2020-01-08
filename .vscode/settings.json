@@ -1,0 +1,19 @@
+{
+    "git.enableSmartCommit": true,
+    "git.autofetch": true,
+    "breadcrumbs.enabled": true,
+    "git.confirmSync": false,
+    "explorer.confirmDelete": false,
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.saveAllFilesBeforeRun": true,
+    "workbench.activityBar.visible": true,
+    "files.trimTrailingWhitespace": true,
+    "telemetry.enableTelemetry": false,
+    "scm.providers.visible": 0, //0 allows manual resize of the Source Control panels
+    "workbench.colorCustomizations": {
+        // "editor.selectionBackground": "#e788ff7c", //Currently SELECTED text
+        // "editor.selectionHighlightBackground": "#ff00005b", //Same content as selection
+        "editor.findMatchBackground": "#00cc44a8", //Current SEARCH MATCH
+        "editor.findMatchHighlightBackground": "#ff7b00a1" //Other SEARCH MATCHES
+    }
+}
